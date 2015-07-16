@@ -215,11 +215,23 @@ msgid "Only do so if your database has become corrupt!"
 msgstr ""
 
 msgctxt "#30139"
-msgid "Yes, Reset Database"
+msgid "Yes, Full Reset of the Database***This WILL delete all linked channels***"
+msgstr ""
+
+msgctxt "#301391"
+msgid "Yes, Delete Guide listing Choices ***This will not effect linked channels***"
+msgstr ""
+
+msgctxt "#301392"
+msgid "Yes, Delete Guide Data Files ***This will not effect linked channels***"
+msgstr ""
+
+msgctxt "#301393"
+msgid "Yes, Delete Addons ini file ***This will not effect locally linked channels***"
 msgstr ""
 
 msgctxt "#30140"
-msgid "Reset Database"
+msgid "Guide Fixes"
 msgstr ""
 
 msgctxt "#30141"
